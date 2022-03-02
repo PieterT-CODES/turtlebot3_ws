@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/peto/turtlebot3_ws/install/setup.sh

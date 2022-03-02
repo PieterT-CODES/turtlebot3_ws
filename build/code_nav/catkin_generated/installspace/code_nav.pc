@@ -1,0 +1,8 @@
+prefix=/home/peto/turtlebot3_ws/install
+
+Name: code_nav
+Description: Description of code_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
